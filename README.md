@@ -1,4 +1,5 @@
 ✅ Project Title: Recommendation System
+
 📄 Project Description:
 This project involves creating a simple recommendation system that suggests relevant items (such as movies, books, or products) to users based on their preferences or past behavior. The system uses foundational recommendation techniques like collaborative filtering or content-based filtering to generate meaningful and personalized suggestions.
 
